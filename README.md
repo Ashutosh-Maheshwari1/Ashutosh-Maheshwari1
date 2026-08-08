@@ -3,36 +3,42 @@
 <table>
 <tr>
 <td width="18%" align="center" valign="middle">
+
 <img src="./assets/profile.jpg" width="145" height="145" alt="Ashutosh Maheshwari">
+
 </td>
 
 <td width="52%" align="left" valign="middle">
 
-<span style="color:#F0F3F6;">ASHUTOSH</span> <span style="color:#9B8AFB;">MAHESHWARI</span>
+<img src="./assets/title.svg" width="100%" alt="Ashutosh Maheshwari">
 
-AI / ML  •  DATA STRUCTURES & ALGORITHMS  •  DATA SCIENCE
+**AI / ML** &nbsp;•&nbsp; **DATA STRUCTURES & ALGORITHMS** &nbsp;•&nbsp; **DATA SCIENCE**
 
-Computer Science & Engineering student passionate about building intelligent,data-driven and scalable software systems. Always learning, solving and creating impact through code.
+Computer Science & Engineering student passionate about building intelligent,  
+data-driven and scalable software systems. Always learning, solving and creating impact through code.
 
-<a href="https://www.linkedin.com/in/ashutosh-maheshwari-152521289/"><img src="https://img.shields.io/badge/LINKEDIN_PROFILE-161B22?style=for-the-badge&logo=linkedin&logoColor=9B8AFB"></a> <a href="https://leetcode.com/u/luccicutta/"><img src="https://img.shields.io/badge/LEETCODE_PROFILE-161B22?style=for-the-badge&logo=leetcode&logoColor=9B8AFB"></a>
+<a href="https://www.linkedin.com/in/ashutosh-maheshwari-152521289/"><img src="https://img.shields.io/badge/LinkedIn-Profile-161B22?style=for-the-badge&logo=linkedin&logoColor=9B8AFB&labelColor=161B22&color=161B22" height="26"></a>
+&nbsp;
+<a href="https://leetcode.com/u/luccicutta/"><img src="https://img.shields.io/badge/LeetCode-Profile-161B22?style=for-the-badge&logo=leetcode&logoColor=9B8AFB&labelColor=161B22&color=161B22" height="26"></a>
 
 </td>
 
-<td width="30%" align="left" valign="middle">
+<td width="30%" valign="middle">
 
-<img src="https://img.shields.io/badge/🎓%20Education-9B8AFB?style=flat-square&labelColor=0D1117">
+<img src="https://img.shields.io/badge/🎓%20Education-9B8AFB?style=flat-square&labelColor=0D1117" height="24">
 
-GLA UniversityB.Tech CSE · 2024–2028
+**GLA University**  
+B.Tech CSE · 2024–2028
 
-<img src="https://img.shields.io/badge/📍%20Location-9B8AFB?style=flat-square&labelColor=0D1117">
+<img src="https://img.shields.io/badge/📍%20Location-9B8AFB?style=flat-square&labelColor=0D1117" height="24">
 
-India
+**India**
 
-<img src="https://img.shields.io/badge/🎯%20Focus-9B8AFB?style=flat-square&labelColor=0D1117">
+<img src="https://img.shields.io/badge/🎯%20Focus-9B8AFB?style=flat-square&labelColor=0D1117" height="24">
 
 AI/ML · DSA · Data Science
 
-<img src="https://img.shields.io/badge/⚡%20Currently-9B8AFB?style=flat-square&labelColor=0D1117">
+<img src="https://img.shields.io/badge/⚡%20Currently-9B8AFB?style=flat-square&labelColor=0D1117" height="24">
 
 Building · Learning · Exploring
 
@@ -42,23 +48,24 @@ Building · Learning · Exploring
 
 </div>
 
-<div align="left">
-<img src="https://img.shields.io/badge/👤%20ABOUT%20ME-9B8AFB?style=for-the-badge&labelColor=0D1117">
-</div>
+---
+
+<img src="./assets/about.svg" width="100%" alt="About Me">
 
 <table>
 <tr>
 <td>
 
-I enjoy solving real-world problems using Machine Learning, Data Science and modern backend technologies.I love building end-to-end solutions that are efficient, scalable and impactful.
+I enjoy solving real-world problems using **Machine Learning, Data Science and modern backend technologies**.  
+I love building end-to-end solutions that are **efficient, scalable and impactful**.
 
 </td>
 </tr>
 </table>
 
-<div align="left">
-<img src="https://img.shields.io/badge/🚀%20FEATURED%20PROJECTS-9B8AFB?style=for-the-badge&labelColor=0D1117">
-</div>
+---
+
+<img src="./assets/projects.svg" width="100%" alt="Featured Projects">
 
 <table>
 <tr>
@@ -67,21 +74,15 @@ I enjoy solving real-world problems using Machine Learning, Data Science and mod
 
 <img src="https://img.shields.io/badge/01-9B8AFB?style=flat-square&labelColor=161B22">
 
-P2P Lending
-
-Risk Assessment
+### P2P Lending
+### <span>Risk Assessment</span>
 
 ML system to predict loan-default probability and classify borrowers into risk tiers.
 
-<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/Scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/ML-161B22?style=flat-square&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/API-161B22?style=flat-square&logoColor=9B8AFB">
-
-<br><br>
+`Python` `Scikit-learn` `ML` `API`
 
 <a href="https://github.com/Ashutosh-Maheshwari1/P2P-Lending-Risk-Assessment">
-<img src="https://img.shields.io/badge/↗%20View%20on%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=9B8AFB">
+<img src="https://img.shields.io/badge/↗%20View%20on%20GitHub-9B8AFB?style=for-the-badge&labelColor=161B22">
 </a>
 
 </td>
@@ -90,21 +91,15 @@ ML system to predict loan-default probability and classify borrowers into risk t
 
 <img src="https://img.shields.io/badge/02-9B8AFB?style=flat-square&labelColor=161B22">
 
-Medicine
-
-Reminder App
+### Medicine
+### Reminder App
 
 Mobile application to manage medicines, schedules and reminders with history.
 
-<img src="https://img.shields.io/badge/Flutter-161B22?style=flat-square&logo=flutter&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/Dart-161B22?style=flat-square&logo=dart&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/Local%20DB-161B22?style=flat-square&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/Notifications-161B22?style=flat-square&logoColor=9B8AFB">
-
-<br><br>
+`Flutter` `Dart` `Local DB` `Notifications`
 
 <a href="https://github.com/Ashutosh-Maheshwari1/medicine-reminder-app">
-<img src="https://img.shields.io/badge/↗%20View%20on%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=9B8AFB">
+<img src="https://img.shields.io/badge/↗%20View%20on%20GitHub-9B8AFB?style=for-the-badge&labelColor=161B22">
 </a>
 
 </td>
@@ -113,21 +108,15 @@ Mobile application to manage medicines, schedules and reminders with history.
 
 <img src="https://img.shields.io/badge/03-9B8AFB?style=flat-square&labelColor=161B22">
 
-SmartAPI Intraday
-
-Quant Platform
+### SmartAPI Intraday
+### Quant Platform
 
 AI-powered intraday quant engine with market intelligence, sentiment analysis and paper trading.
 
-<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/Celery-161B22?style=flat-square&logo=celery&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/Redis-161B22?style=flat-square&logo=redis&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=9B8AFB">
-
-<br><br>
+`FastAPI` `Celery` `Redis` `PostgreSQL`
 
 <a href="https://github.com/Ashutosh-Maheshwari1/smartapi-intraday-quant">
-<img src="https://img.shields.io/badge/↗%20View%20on%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=9B8AFB">
+<img src="https://img.shields.io/badge/↗%20View%20on%20GitHub-9B8AFB?style=for-the-badge&labelColor=161B22">
 </a>
 
 </td>
@@ -136,21 +125,15 @@ AI-powered intraday quant engine with market intelligence, sentiment analysis an
 
 <img src="https://img.shields.io/badge/04-9B8AFB?style=flat-square&labelColor=161B22">
 
-House Price
-
-Prediction
+### House Price
+### Prediction
 
 ML regression model to predict house prices based on multiple features.
 
-<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/ML-161B22?style=flat-square&logoColor=9B8AFB">
-<img src="https://img.shields.io/badge/Regression-161B22?style=flat-square&logoColor=9B8AFB">
-
-<br><br>
+`Python` `Pandas` `ML` `Regression`
 
 <a href="https://github.com/Ashutosh-Maheshwari1/house-price-pridiction">
-<img src="https://img.shields.io/badge/↗%20View%20on%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=9B8AFB">
+<img src="https://img.shields.io/badge/↗%20View%20on%20GitHub-9B8AFB?style=for-the-badge&labelColor=161B22">
 </a>
 
 </td>
@@ -158,9 +141,9 @@ ML regression model to predict house prices based on multiple features.
 </tr>
 </table>
 
-<div align="left">
-<img src="https://img.shields.io/badge/💻%20TECH%20STACK-9B8AFB?style=for-the-badge&labelColor=0D1117">
-</div>
+---
+
+<img src="./assets/stack.svg" width="100%" alt="Tech Stack">
 
 <table>
 <tr>
@@ -222,22 +205,18 @@ ML regression model to predict house prices based on multiple features.
 </tr>
 </table>
 
-<div align="left">
-<img src="https://img.shields.io/badge/🐍%20CONTRIBUTION%20ACTIVITY-9B8AFB?style=for-the-badge&labelColor=0D1117">
-</div>
+---
+
+<img src="./assets/contribution.svg" width="100%" alt="Contribution Activity">
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td align="center">
 
-Let's build the graphone commit at a time.
-
-<br>
-
-<img src="https://img.shields.io/badge/More%20contributions-9B8AFB?style=flat-square&labelColor=161B22">
+<b>Let's build the graph<br>one commit at a time.</b>
 
 </td>
-<td width="75%" align="center">
+<td align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashutosh-Maheshwari1/Ashutosh-Maheshwari1/output/github-snake-dark.svg">
@@ -249,9 +228,11 @@ Let's build the graphone commit at a time.
 </tr>
 </table>
 
+---
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/BUILD%20•%20LEARN%20•%20SHIP-9B8AFB?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/BUILD%20%20•%20%20LEARN%20%20•%20%20SHIP-9B8AFB?style=for-the-badge&labelColor=0D1117">
 
 <br><br>
 
