@@ -142,15 +142,20 @@ Machine learning regression model for predicting house prices from housing featu
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
-    <img alt="GitHub contribution snake animation" src="./dist/github-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ashutosh-Maheshwari1/Ashutosh-Maheshwari1/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ashutosh-Maheshwari1/Ashutosh-Maheshwari1/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/Ashutosh-Maheshwari1/Ashutosh-Maheshwari1/output/github-snake.svg"
+    />
   </picture>
 </p>
-
----
-
-<div align="center">
 
 **BUILD • LEARN • SHIP**
 
