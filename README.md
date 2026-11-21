@@ -209,24 +209,11 @@ ML regression model to predict house prices based on multiple features.
 
 <img src="./assets/contribution.svg" width="100%" alt="Contribution Activity">
 
-<table>
-<tr>
-<td align="center">
+<div align="center">
 
 <b>Let's build the graph<br>one commit at a time.</b>
 
-</td>
-<td align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashutosh-Maheshwari1/Ashutosh-Maheshwari1/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashutosh-Maheshwari1/Ashutosh-Maheshwari1/output/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ashutosh-Maheshwari1/Ashutosh-Maheshwari1/output/github-snake.svg">
-</picture>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
